@@ -1,6 +1,5 @@
-pxGUI
+b3d-pxGUI
 =====
-
 Simple and easy to use GUI lib for Blitz3D
 
 Features
