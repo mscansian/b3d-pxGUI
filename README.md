@@ -16,4 +16,4 @@ License
 Notes
 ---------
 This project was never intended for public release. It was developed as a personal collection of GUI-like functions, so don't expect a good and understandable code. 
-Even though I used this lib extensively, you still may find some bugs. If you do, please fill out a bug report or make the changes youself and send me a push request.
+Even though I used this lib extensively, you still may find some bugs. If you do, please fill out a issue report or make the changes youself and send me a pull request.
